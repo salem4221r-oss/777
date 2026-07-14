@@ -1,0 +1,8 @@
+{
+  "name": "Remix: /aaa.html",
+  "description": "منصة بروج فون لحساسيات ببجي موبايل، أكواد الحساسية، أكواد أزرار التحكم، وشدات ببجي المجانية مع تحديثات يومية وواجهة تحكم متكاملة للأدمن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
